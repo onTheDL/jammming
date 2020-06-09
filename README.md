@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-for static website, click here: http://onthedl.surge.sh/
+Static website: http://onthedl.surge.sh/
 
 ## Available Scripts
 
